@@ -22,5 +22,6 @@ git clone https://github.com/robinredX/ML-in-practice
 Data is available in the shared folder. Before using, please copy the data to your local copy of this repository.
 
 ```bash
+cd ML-in-practice
 cp -r /home/shared/pub/MLint/data .
 ```
