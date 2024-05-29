@@ -26,3 +26,14 @@ cd ML-in-practice
 cp -r /home/shared/pub/MLint/data .
 ```
 ## Keep local changes
+If you are not in ML-in-practice folder, navigate to it
+```bash
+cd ML-in-practice # Or your local path to ML-in-pratice
+```
+Stash your local changes, pull from current version of the main branch and merge your local changes:
+
+```bash
+git stash
+git pull
+git stash pop
+```
