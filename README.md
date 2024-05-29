@@ -25,3 +25,4 @@ Data is available in the shared folder. Before using, please copy the data to yo
 cd ML-in-practice
 cp -r /home/shared/pub/MLint/data .
 ```
+## Keep local changes
