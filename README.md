@@ -39,13 +39,7 @@ git stash pop
 ```
 
 ## Further reading
-### Day 1
-
-
-### Day 2
-
-
-### Day 3
+- [Variational autoencoder](https://www.youtube.com/watch?v=rZufA635dq4)
 - [GPT from scratch by Andrey Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY), his other videos are also extremely informative
 - [Geometric deep learning resources](https://geometricdeeplearning.com/)
 - [Google tuning playbook](https://github.com/google-research/tuning_playbook)
