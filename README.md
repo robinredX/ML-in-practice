@@ -2,13 +2,6 @@
 
 Contains the guided notebooks for each session.
 
-## WIFI
-```bash
-Guest account User Name : baiome0524
-Guest account Password : Ccw8gDZ!
-Profile name : Guest
-```
-
 ## Lab
 Go to [https://learn.baiome.org/](https://learn.baiome.org/) and login with your credentials.
 
