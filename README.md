@@ -37,3 +37,19 @@ git stash
 git pull
 git stash pop
 ```
+
+## Further reading
+### Day 1
+
+
+### Day 2
+
+
+### Day 3
+- [GPT from scratch by Andrey Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY), his other videos are also extremely informative
+- [Geometric deep learning resources](https://geometricdeeplearning.com/)
+- [Google tuning playbook](https://github.com/google-research/tuning_playbook)
+- [Benchmarking spatial clustering methods with spatially resolved transcriptomics data](https://www.nature.com/articles/s41592-024-02215-8)
+- [Learning Graph Cellular Automata](https://proceedings.neurips.cc//paper/2021/hash/af87f7cdcda223c41c3f3ef05a3aaeea-Abstract.html)
+- [Single Cells Are Spatial Tokens - Transformers for Spatial Transcriptomic Data Imputation](http://arxiv.org/abs/2302.03038)
+- [On the Scalability of GNNs for Molecular Graphs](http://arxiv.org/abs/2404.11568)
