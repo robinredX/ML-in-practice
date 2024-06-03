@@ -40,6 +40,7 @@ git stash pop
 
 ## Further reading
 - [Variational autoencoder](https://www.youtube.com/watch?v=rZufA635dq4)
+- [Graph (variational) autoencoder paper](https://arxiv.org/abs/1611.07308)
 - [GPT from scratch by Andrey Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY), his other videos are also extremely informative
 - [Geometric deep learning resources](https://geometricdeeplearning.com/)
 - [Google tuning playbook](https://github.com/google-research/tuning_playbook)
