@@ -1,4 +1,5 @@
 labs/data/**
+solutions/data/**
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
